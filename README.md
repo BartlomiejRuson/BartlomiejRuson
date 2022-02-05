@@ -4,12 +4,10 @@
  - HTML5,CSS,ES6
  - React (Hooks,Context,Redux)
  - Basic SEO knowledge
- - GIMP basics
- - Firebase basics
+ - Firebase 
 ### Currently Learning :
- - Wordpress
- - Node
- - mySql / PHP
+ - Next
+ - Tailwind
 <!--
 **BartlomiejRuson/BartlomiejRuson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
