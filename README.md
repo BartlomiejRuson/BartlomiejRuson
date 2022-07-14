@@ -1,13 +1,5 @@
-### Hello, my name is Bartek 👋
+### Hello, my name is Bartek
 
-### My Skills :
- - HTML5,CSS,ES6
- - React (Hooks,Context,Redux)
- - Basic SEO knowledge
- - Firebase 
-### Currently Learning :
- - Next
- - Tailwind
 <!--
 **BartlomiejRuson/BartlomiejRuson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
