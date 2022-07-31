@@ -1,4 +1,20 @@
 ### Hello, my name is Bartek
+ 
+ I am a self taught web Developer.
+ 
+### I already know
+-React
+-Next.js
+-Firebase
+
+### Currently working on
+-Angular
+-C#
+-SQL
+
+### Connect with me
+
+bartlomiej.ruson@gmail.com
 
 <!--
 **BartlomiejRuson/BartlomiejRuson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
