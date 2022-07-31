@@ -3,14 +3,14 @@
  I am a self taught web Developer.
  
 ### I already know
--React
--Next.js
--Firebase
+-React <br>
+-Next.js <br>
+-Firebase <br>
 
 ### Currently working on
--Angular
--C#
--SQL
+-Angular <br>
+-C# <br>
+-SQL <br>
 
 ### Connect with me
 
