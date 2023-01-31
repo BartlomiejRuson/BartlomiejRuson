@@ -6,12 +6,7 @@
 -React <br>
 -Next.js <br>
 -Firebase <br>
-
-### Currently working on
--Angular <br>
--C# <br>
--SQL <br>
-
+-Tailwind <br>
 ### Connect with me
 
 bartlomiej.ruson@gmail.com
