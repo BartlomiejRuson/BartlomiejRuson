@@ -1,11 +1,12 @@
 ### Hello, my name is Bartek
  
- I am a self taught web Developer.
+ I am a self taught web Developer. Currently looking for a job
  
-### I already know
+### My skills
 -React <br>
 -Next.js <br>
 -Firebase <br>
+-Redux <br>
 -Tailwind <br>
 ### Connect with me
 
